@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Duke of Tralee]]></title>
         <description><![CDATA[The Duke of Tralee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-duke-of-tralee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 18:55:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jul 2016 20:06:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-duke-of-tralee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e452cfe-611a-4742-bc7a-bda82cc5d879.jpg">]]></description>
+            <link>https://thegrid.ai/the-duke-of-tralee/roger-played-on-the-lima-ohio-semi-pro-team-to-the-dismay-o/index.html</link>
+            <guid isPermaLink="false">c9582f15-e444-42f8-b6ad-dccf4ad756ba</guid>
+            <pubDate>Sat, 09 Jul 2016 20:06:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6be03d5-c690-40aa-a1d3-f7270594ba05.jpg">]]></description>
-            <link>undefined1d114cfc-b0db-42d1-963a-b2c5e343ab98/index.html</link>
+            <link>https://thegrid.ai/the-duke-of-tralee/1d114cfc-b0db-42d1-963a-b2c5e343ab98/index.html</link>
             <guid isPermaLink="false">1d114cfc-b0db-42d1-963a-b2c5e343ab98</guid>
             <pubDate>Sat, 09 Jul 2016 18:55:38 GMT</pubDate>
         </item>
