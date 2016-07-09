@@ -1,0 +1,28 @@
+name: The Duke of Tralee
+favicon: null
+layout_spectrum: 0.9127041252795607
+typography_spectrum: 0.9927552838344127
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5710059124976397
+  lightness: 0.3877133815549314
+  saturation: 0.5787042754236609
+  rhythmicContrast: 0.8797122614923865
+purpose: []
